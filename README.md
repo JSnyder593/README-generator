@@ -23,6 +23,12 @@
     
     Once you have downloaded the software and node packages, initialize the prompts using the command “node index.js” in your terminal. This will prompt you to put in the information necessary for your project and create a new README file.    
     
+    
+
+https://user-images.githubusercontent.com/111250521/197298060-ffa97d6a-21bf-4fca-a615-ee371f7a28b2.mp4
+
+
+    
     ## Credits
     
     Myself: Jaeger
